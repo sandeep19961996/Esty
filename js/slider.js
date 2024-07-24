@@ -25,7 +25,6 @@ var owl = $('#owl-carousel');
 owl.owlCarousel({
     items:4,
     loop:true,
-    lazyLoad: true,
     nav:true,
     margin:10,
     responsive : {
@@ -53,7 +52,6 @@ var owl1 = $('#owl-carousel');
 owl1.owlCarousel({
     items:5,
     loop:true,
-    lazyLoad: true,
     nav:true,
     margin:10,
     responsive : {
@@ -83,7 +81,6 @@ owl2.owlCarousel({
     items:4,
     loop:true,
     nav:true,
-    lazyLoad: true,
     margin:10,
     responsive : {
         // breakpoint from 0 up
@@ -114,7 +111,6 @@ owl3.owlCarousel({
     items:5,
     loop:true,
     nav:true,
-    lazyLoad: true,
     margin:10,
     responsive : {
         // breakpoint from 0 up
@@ -145,7 +141,6 @@ owl4.owlCarousel({
     items:6,
     loop:true,
     nav:true,
-    lazyLoad: true,
     margin:10,
     responsive : {
         // breakpoint from 0 up
