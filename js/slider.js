@@ -26,6 +26,7 @@ owl.owlCarousel({
     items:4,
     loop:true,
     nav:true,
+    lazyload:true,
     margin:10,
     responsive : {
         // breakpoint from 0 up
@@ -53,6 +54,7 @@ owl1.owlCarousel({
     items:5,
     loop:true,
     nav:true,
+    lazyload:true,
     margin:10,
     responsive : {
         // breakpoint from 0 up
@@ -81,6 +83,7 @@ owl2.owlCarousel({
     items:4,
     loop:true,
     nav:true,
+    lazyload:true,
     margin:10,
     responsive : {
         // breakpoint from 0 up
@@ -112,6 +115,7 @@ owl3.owlCarousel({
     loop:true,
     nav:true,
     margin:10,
+    lazyload:true,
     responsive : {
         // breakpoint from 0 up
         0 : {
@@ -142,6 +146,7 @@ owl4.owlCarousel({
     loop:true,
     nav:true,
     margin:10,
+    lazyload:true,
     responsive : {
         // breakpoint from 0 up
         0 : {
